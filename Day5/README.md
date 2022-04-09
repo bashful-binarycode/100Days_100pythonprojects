@@ -1,3 +1,3 @@
-Learn: For Loops, Range and Code Blocks\n
+Learn: For Loops, Range and Code Blocks
 Level: Beginner
 Note:
